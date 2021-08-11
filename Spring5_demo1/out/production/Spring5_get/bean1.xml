@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--1.配置User对象创建-->
+    <!--<bean id="user" class="com.atguigu.spring5.User"></bean>-->
+
+    <!--2.使用set方法注入类属性-->
+    <bean id="book" class="com.atguigu.spring5.Book">
+        <property name="bname" value="论语"></property>
+        <property name="bauthor" value="孔子"></property>
+
+        <!--注入null值-->
+        <!--<property name="address">
+            <null/>
+        </property>-->
+
+        <!--属性值包含特殊符号
+            1.把<>进行转义 &lt; &gt
+            2.把特殊符号内容写到CDATA中
+        -->
+        <property name="address">
+            <value><![CDATA[<<南京>>]]></value>
+        </property>
+
+    </bean>
+
+    <!--3.有参数构造方法的属性注入-->
+    <!--<bean id="orders" class="com.atguigu.spring5.Orders">
+        <constructor-arg name="border" value="电脑"></constructor-arg>
+        <constructor-arg name="address" value="china"></constructor-arg>
+    </bean>-->
+
+</beans>
