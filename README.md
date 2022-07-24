@@ -44,3 +44,12 @@ Java技术栈之Spring5学习
 
 15.Java技术栈之Dubbo_zookeeper学习：https://github.com/CONTINUE12/Dubbo_zookeeper_course
 
+16.Java技术栈之Linux学习：https://github.com/CONTINUE12/Linux_course
+
+17.Java技术栈之JVM学习：https://github.com/CONTINUE12/JVM_course
+
+18.Java技术栈之Redis学习：https://github.com/CONTINUE12/Redis_course
+
+19.Java技术栈之RabbitMQ学习：https://github.com/CONTINUE12/RabbitMQ_course
+
+20.Java技术栈之ElasticSearch学习：https://github.com/CONTINUE12/Elasticsearch_course
