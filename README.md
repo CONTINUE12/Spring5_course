@@ -33,3 +33,14 @@ Java技术栈之Spring5学习
 9.Java技术栈之SpringBoot学习：https://github.com/CONTINUE12/SpringBoot_course
 
 10.Java技术栈之Vue学习：https://github.com/CONTINUE12/Vue_course
+
+11.Java技术栈之Ajax+Json学习：https://github.com/CONTINUE12/Ajax-Json_course
+
+12.Java技术栈之SpringSecurity学习：https://github.com/CONTINUE12/SpringSecurity_course
+
+13.Java技术栈之Swagger学习：https://github.com/CONTINUE12/Swagger_course
+
+14.Java技术栈之SpringCloud学习：https://github.com/CONTINUE12/SpringCloud_course
+
+15.Java技术栈之Dubbo_zookeeper学习：https://github.com/CONTINUE12/Dubbo_zookeeper_course
+
